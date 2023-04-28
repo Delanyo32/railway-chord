@@ -6,7 +6,7 @@ projects.
 _railway-chord_ pipes the log stream from Railway's GraphQL API into Vector.
 This gives you **project-wide** centralized logging on Railway. For each Railway
 project you configure, _railway-chord_ dumps the log stream of the project's
-deployed services and plugins (e.g. Postgres, Redis, etc.) in all environments
+deployed services and plugins (e.g. Postgres, Redis, etc..) in all environments
 into Vector.
 
 ## Usage
